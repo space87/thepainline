@@ -2,4 +2,6 @@
 <resources>
     <string name="app_name">thepainline</string>
     <string name="title_activity_kimera">thepainline</string>
+    <string name="facebook_app_id">485779931941018</string>
+    <string name="fb_login_protocol_scheme">fb485779931941018</string>
 </resources>

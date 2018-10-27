@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1084196690855",
+    "firebase_url": "https://thepainline.firebaseio.com",
+    "project_id": "thepainline",
+    "storage_bucket": "thepainline.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084196690855:android:5a15099d75980599",
+        "android_client_info": {
+          "package_name": "com.msm.thepainline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084196690855-e8th8reor088ice8f2dhjo21bq10t4vl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoBV8_DENXRP8J647c2GgDA3u1lQAYnqo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
